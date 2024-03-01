@@ -17,10 +17,10 @@ const HomeSection = () => {
             <p className="font-normal text-gray-500 text-sm md:text-lg mb-10">
               We develop world class high quality product <br /> designs.
             </p>
-            <div className="flex items-center justify-center lg:justify-start">
+            <div className="flex items-center justify-center ">
               <a
                 href="/about"
-                className="px-8 py-3 bg-green-500 font-medium text-white text-md md:text-lg rounded-md hover:bg-green-700 transition ease-in-out duration-300 mr-14"
+                className="px-8 py-3 bg-grredeen-500 font-medium text-white text-md md:text-lg rounded-md hover:bg-green-700 transition ease-in-out duration-300 mr-14"
               >
                 About Us
               </a>
